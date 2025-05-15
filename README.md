@@ -43,7 +43,7 @@ A modern, efficient URL shortening service built with Go and Gin framework. This
    go run cmd/main.go
    ```
 
-The server will start on `http://localhost:5001`
+The server will start on `http://localhost:8080`
 
 ## Project Structure
 
@@ -76,7 +76,7 @@ url-shortener-go/
 
 ## Usage
 
-1. Open your web browser and navigate to `http://localhost:5001`
+1. Open your web browser and navigate to `http://localhost:8080`
 2. Enter a URL in the input field
 3. Click "Shorten" to generate a shortened URL
 4. Use the shortened URL to redirect to the original URL
